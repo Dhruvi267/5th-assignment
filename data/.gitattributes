@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/Mouse_metadata.csv filter=lfs diff=lfs merge=lfs -text
